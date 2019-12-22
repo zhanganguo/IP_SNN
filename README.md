@@ -3,3 +3,5 @@ Experimental code for paper "Intrinsic Plasticity for Online Unsupervised Learni
 
 
 ## Code will be pushed as soon as possible.
+
+### Any problems? Please contact with me, anrial@live.cn
